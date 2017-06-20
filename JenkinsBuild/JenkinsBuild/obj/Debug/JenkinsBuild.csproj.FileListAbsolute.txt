@@ -1,0 +1,2 @@
+c:\users\suraj udupa\documents\visual studio 2015\Projects\JenkinsBuild\JenkinsBuild\bin\Debug\JenkinsBuild.exe.config
+E:\ThinkSimple\ContinousIntegration\GItSource\JenkinsBuild\JenkinsBuild\bin\Debug\JenkinsBuild.exe.config
